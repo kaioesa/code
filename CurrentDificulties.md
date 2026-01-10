@@ -1,0 +1,3 @@
+- Remembering all syntax
+- Getting variations from X strategy learnt from a video (using hashmap with sliding window instead of simply using a set)
+- Still trying to write before understanding what to do. Don't really know what to do, but I write right away...
